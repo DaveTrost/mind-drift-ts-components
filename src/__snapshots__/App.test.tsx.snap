@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component renders App in logged-in state 1`] = `
+<div
+  className="container"
+>
+  <BrowserRouter>
+    <Switch>
+      <Route
+        component={[Function]}
+        exact={true}
+        path="/"
+      />
+    </Switch>
+  </BrowserRouter>
+</div>
+`;
