@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Nav Bar component renders Nav Bar 1`] = `
+<div
+  className="NavBar"
+>
+  <button>
+    Log Out
+  </button>
+  <span
+    className="NavigationFooter"
+  >
+    <Link
+      to="/"
+    >
+      <img
+        alt="Home"
+        src="test-file-stub"
+      />
+      HOME
+    </Link>
+     
+    <Link
+      to="/profile"
+    >
+      <img
+        alt="Profile"
+        src="test-file-stub"
+      />
+    </Link>
+    <Link
+      to="/settings"
+    >
+      <img
+        alt="Settings"
+        src="test-file-stub"
+      />
+    </Link>
+    <Link
+      to="/about-us"
+    >
+      <img
+        alt="About Us"
+        src="test-file-stub"
+      />
+    </Link>
+  </span>
+</div>
+`;
