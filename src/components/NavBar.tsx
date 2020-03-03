@@ -5,7 +5,7 @@ import HOMEicon from '../assets/HOMEicon.png';
 import PROFILEicon from '../assets/PROFILEicon.png';
 import SETTINGSicon from '../assets/SETTINGSicon.png';
 import FLOWERicon from '../assets/FLOWERicon.png';
-import './NavBar.css';
+import './NavBar.scss';
 
 
 const NavBar = () => {
