@@ -1,9 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './Home.scss';
 import NavBar from './NavBar';
 // import AchievementToast from './AchievementToast';
 import mindDriftIcon from '../assets/mindDriftIcon.png';
+import './Home.scss';
 
 const Home = () => (
   <section className="Home">
