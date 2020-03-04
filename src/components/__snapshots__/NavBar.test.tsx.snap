@@ -17,7 +17,6 @@ exports[`Nav Bar component renders Nav Bar 1`] = `
         alt="Home"
         src="test-file-stub"
       />
-      HOME
     </Link>
      
     <Link

@@ -2,7 +2,7 @@
 
 exports[`App component renders App in logged-in state 1`] = `
 <div
-  className="container"
+  className="appContainer"
 >
   <BrowserRouter>
     <Switch>
