@@ -16,7 +16,7 @@ const NavBar = () => {
     <div className="NavBar">
       <button>Log Out</button>
       <span className="NavigationFooter">
-        <Link to="/"><img src={HOMEicon} alt="Home" />HOME</Link>&nbsp;
+        <Link to="/"><img src={HOMEicon} alt="Home" /></Link>&nbsp;
         <Link to="/profile"><img src={PROFILEicon} alt="Profile" /></Link>
         <Link to="/settings"><img src={SETTINGSicon} alt="Settings" /></Link>
         <Link to="/about-us"><img src={FLOWERicon} alt="About Us" /></Link>
