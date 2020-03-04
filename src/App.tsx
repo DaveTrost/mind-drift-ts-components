@@ -5,7 +5,7 @@ import './App.scss';
 
 function App() {
   return (
-    <div className={"container"}>
+    <div className={"appContainer"}>
       <Router>
         <Switch>
           <Route exact path='/' component={Home} />
